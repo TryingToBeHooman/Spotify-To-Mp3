@@ -5,8 +5,8 @@ from pytube import YouTube
 
 os.system('cls')
 
-CLIENT_ID = 'fcc98a51a5484cb49a12e371d4b009cf'
-CLIENT_SECRET = '16ed4f363e274d78ba5f669b0a17cfcb'
+CLIENT_ID = ''
+CLIENT_SECRET = ''
 
 def remove_forbidden_chars(pp):
     forbidden_chars = ['<', '>', ':', '"', '/', '\\', '|', '?', '*']
